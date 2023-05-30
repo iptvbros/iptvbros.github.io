@@ -1,1 +1,2450 @@
-[]
+[
+    {
+        "num": 1,
+        "name": "LAT - A&E",
+        "stream_type": "live",
+        "stream_id": 264825,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/aande.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 2,
+        "name": "LAT - A&E UHD",
+        "stream_type": "live",
+        "stream_id": 264826,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/A&E_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 3,
+        "name": "LAT - AMC",
+        "stream_type": "live",
+        "stream_id": 264828,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/amc.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 4,
+        "name": "LAT - AMC UHD",
+        "stream_type": "live",
+        "stream_id": 264829,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.amchd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 5,
+        "name": "LAT - AMERICA TV",
+        "stream_type": "live",
+        "stream_id": 264830,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.americatv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 6,
+        "name": "LAT - AXN",
+        "stream_type": "live",
+        "stream_id": 264833,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.axn.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 7,
+        "name": "LAT - AXN UHD",
+        "stream_type": "live",
+        "stream_id": 264834,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/axnhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 8,
+        "name": "LAT - BABY TV",
+        "stream_type": "live",
+        "stream_id": 264838,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.babytv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 9,
+        "name": "LAT - BABY TV UHD",
+        "stream_type": "live",
+        "stream_id": 264839,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/BABY-TV-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 10,
+        "name": "LAT - BOOMERANG",
+        "stream_type": "live",
+        "stream_id": 264845,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/boomerang.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 11,
+        "name": "LAT - BOOMERANG UHD",
+        "stream_type": "live",
+        "stream_id": 264846,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/boomeranghd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 12,
+        "name": "LAT - CARTOON NETWORK",
+        "stream_type": "live",
+        "stream_id": 264852,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/cartoonnetwork.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 13,
+        "name": "LAT - CARTOON NETWORK UHD",
+        "stream_type": "live",
+        "stream_id": 264853,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-HD.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 14,
+        "name": "LAT - CINECANAL",
+        "stream_type": "live",
+        "stream_id": 264857,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.cinecanal.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 15,
+        "name": "LAT - CINECANAL UHD",
+        "stream_type": "live",
+        "stream_id": 264858,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.cinecanal-hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 16,
+        "name": "LAT - CINEMAX",
+        "stream_type": "live",
+        "stream_id": 264859,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CINEMAX-HD.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 17,
+        "name": "LAT - CINEMAX UHD",
+        "stream_type": "live",
+        "stream_id": 264860,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CINEMAX-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 18,
+        "name": "LAT - CNN ESPANOL",
+        "stream_type": "live",
+        "stream_id": 264862,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.cnnespanol.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 19,
+        "name": "LAT - COMEDY CENTRAL",
+        "stream_type": "live",
+        "stream_id": 264864,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/primacomedycentral.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 20,
+        "name": "LAT - COMEDY CENTRAL UHD",
+        "stream_type": "live",
+        "stream_id": 264865,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/comedycentralhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 21,
+        "name": "LAT - DISCOVERY CHANNEL",
+        "stream_type": "live",
+        "stream_id": 264879,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.discoverychannel.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 22,
+        "name": "LAT - DISCOVERY CHANNEL UHD",
+        "stream_type": "live",
+        "stream_id": 264880,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.discovery_channel_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 23,
+        "name": "LAT - DISCOVERY HOME & HEALTH",
+        "stream_type": "live",
+        "stream_id": 264882,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/discoveryhomeandhealth.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 24,
+        "name": "LAT - DISCOVERY HOME & HEALTH UHD",
+        "stream_type": "live",
+        "stream_id": 264883,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/discoveryhomeandhealth.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 25,
+        "name": "LAT - DISCOVERY WORLD",
+        "stream_type": "live",
+        "stream_id": 264891,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.discoveryworld.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 26,
+        "name": "LAT - DISCOVERY WORLD UHD",
+        "stream_type": "live",
+        "stream_id": 264892,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.discoveryworld.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 27,
+        "name": "LAT - DISNEY CHANNEL",
+        "stream_type": "live",
+        "stream_id": 264893,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/disneychannel.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 28,
+        "name": "LAT - DISNEY CHANNEL UHD",
+        "stream_type": "live",
+        "stream_id": 264894,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/disneychannelhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 29,
+        "name": "LAT - DISNEY JUNIOR",
+        "stream_type": "live",
+        "stream_id": 264895,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/disneyjunior.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 30,
+        "name": "LAT - DISNEY JUNIOR UHD",
+        "stream_type": "live",
+        "stream_id": 264896,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.disneyjuniorhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 31,
+        "name": "LAT - DISNEY XD",
+        "stream_type": "live",
+        "stream_id": 264897,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/disneyxd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 32,
+        "name": "LAT - DISNEY XD UHD",
+        "stream_type": "live",
+        "stream_id": 264898,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/disneyxdhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 33,
+        "name": "LAT - E! ENTERTAINMENT",
+        "stream_type": "live",
+        "stream_id": 264901,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/eentertainment.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 34,
+        "name": "LAT - E! ENTERTAINMENT UHD",
+        "stream_type": "live",
+        "stream_id": 264902,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/E!-ENTERTAINMENT-HD.jpeg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 35,
+        "name": "LAT - EL GOURMET",
+        "stream_type": "live",
+        "stream_id": 264903,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Elgourmet.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 36,
+        "name": "LAT - EL GOURMET UHD",
+        "stream_type": "live",
+        "stream_id": 264904,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Elgourmet.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 37,
+        "name": "LAT - ESPN",
+        "stream_type": "live",
+        "stream_id": 264905,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/espn.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 38,
+        "name": "LAT - ESPN UHD",
+        "stream_type": "live",
+        "stream_id": 264906,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.espnhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 39,
+        "name": "LAT - ESPN 2",
+        "stream_type": "live",
+        "stream_id": 264907,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.espn2.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 40,
+        "name": "LAT - ESPN 2 UHD",
+        "stream_type": "live",
+        "stream_id": 264908,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.espn2hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 41,
+        "name": "LAT - ESPN 3",
+        "stream_type": "live",
+        "stream_id": 264909,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.espn3.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 42,
+        "name": "LAT - ESPN 3 UHD",
+        "stream_type": "live",
+        "stream_id": 264910,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.espn3.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 43,
+        "name": "LAT - FX",
+        "stream_type": "live",
+        "stream_id": 264948,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.fx.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 44,
+        "name": "LAT - FX UHD",
+        "stream_type": "live",
+        "stream_id": 264949,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.fx_hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 45,
+        "name": "LAT - FXM",
+        "stream_type": "live",
+        "stream_id": 264950,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.fxm.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 46,
+        "name": "LAT - FXM UHD",
+        "stream_type": "live",
+        "stream_id": 264951,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.fxm_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 47,
+        "name": "LAT - GARAGE TV UHD",
+        "stream_type": "live",
+        "stream_id": 264953,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/garagetv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 48,
+        "name": "LAT - GLITZ",
+        "stream_type": "live",
+        "stream_id": 264954,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Glitz.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 49,
+        "name": "LAT - H2",
+        "stream_type": "live",
+        "stream_id": 264961,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/h2.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 50,
+        "name": "LAT - H2 UHD",
+        "stream_type": "live",
+        "stream_id": 264962,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.h2hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 51,
+        "name": "LAT - HBO",
+        "stream_type": "live",
+        "stream_id": 264963,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.hbo.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 52,
+        "name": "LAT - HBO UHD",
+        "stream_type": "live",
+        "stream_id": 264964,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.hbohd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 53,
+        "name": "LAT - HBO 2",
+        "stream_type": "live",
+        "stream_id": 264965,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Hbo2.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 54,
+        "name": "LAT - HBO 2 UHD",
+        "stream_type": "live",
+        "stream_id": 264966,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.hbo2hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 55,
+        "name": "LAT - HBO FAMILY",
+        "stream_type": "live",
+        "stream_id": 264967,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/hbofamily.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 56,
+        "name": "LAT - HBO FAMILY UHD",
+        "stream_type": "live",
+        "stream_id": 264968,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/HBO-FAMILY-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 57,
+        "name": "LAT - HBO SIGNATURE",
+        "stream_type": "live",
+        "stream_id": 264971,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.hbo_signature.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 58,
+        "name": "LAT - HBO SIGNATURE UHD",
+        "stream_type": "live",
+        "stream_id": 264972,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.HBO_Signaturehd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 59,
+        "name": "LAT - INVESTIGATION DISCOVERY",
+        "stream_type": "live",
+        "stream_id": 264978,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/investigationdiscovery.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 60,
+        "name": "LAT - INVESTIGATION DISCOVERY UHD",
+        "stream_type": "live",
+        "stream_id": 264979,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/investigationdiscoveryhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 61,
+        "name": "LAT - LIFETIME",
+        "stream_type": "live",
+        "stream_id": 264980,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.lifetime.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 62,
+        "name": "LAT - LIFETIME UHD",
+        "stream_type": "live",
+        "stream_id": 264981,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/las.lifetime_hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 63,
+        "name": "LAT - MAS CHIC UHD",
+        "stream_type": "live",
+        "stream_id": 264983,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.maschic.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 64,
+        "name": "LAT - MTV UHD",
+        "stream_type": "live",
+        "stream_id": 264992,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.mtv_hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 65,
+        "name": "LAT - MTV HITS",
+        "stream_type": "live",
+        "stream_id": 264993,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.mtvhits.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 66,
+        "name": "LAT - NAT GEO",
+        "stream_type": "live",
+        "stream_id": 264999,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/natgeo.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 67,
+        "name": "LAT - NAT GEO UHD",
+        "stream_type": "live",
+        "stream_id": 265000,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Nat_Geo_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 68,
+        "name": "LAT - NAT GEO WILD",
+        "stream_type": "live",
+        "stream_id": 265004,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/natgeowild.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 69,
+        "name": "LAT - NAT GEO WILD UHD",
+        "stream_type": "live",
+        "stream_id": 265005,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.natgeowildhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 70,
+        "name": "LAT - NICK 2",
+        "stream_type": "live",
+        "stream_id": 265008,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.nick2.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 71,
+        "name": "LAT - NICKELODEON UHD",
+        "stream_type": "live",
+        "stream_id": 265011,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/NICKELODEON-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 72,
+        "name": "LAT - PARAMOUNT CHANNEL",
+        "stream_type": "live",
+        "stream_id": 265014,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/paramountchannel.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 73,
+        "name": "LAT - PARAMOUNT CHANNEL UHD",
+        "stream_type": "live",
+        "stream_id": 265015,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/paramountchannelhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 74,
+        "name": "LAT - SONY CHANNEL",
+        "stream_type": "live",
+        "stream_id": 265025,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/SONY-CHANNEL.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 75,
+        "name": "LAT - STUDIO UNIVERSAL",
+        "stream_type": "live",
+        "stream_id": 265042,
+        "stream_icon": "http://logo.protv.cc/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 76,
+        "name": "LAT - STUDIO UNIVERSAL UHD",
+        "stream_type": "live",
+        "stream_id": 265043,
+        "stream_icon": "http://logo.protv.cc/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 77,
+        "name": "LAT - SYFY UHD",
+        "stream_type": "live",
+        "stream_id": 265046,
+        "stream_icon": "http://logo.protv.cc/picons/iptvlogos/SYFY_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 78,
+        "name": "LAT - TBS",
+        "stream_type": "live",
+        "stream_id": 265047,
+        "stream_icon": "http://logo.protv.cc/picons/iptvlogos/TBS_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 79,
+        "name": "LAT - TCM",
+        "stream_type": "live",
+        "stream_id": 265048,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/tcm.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 80,
+        "name": "LAT - TELEMUNDO UHD",
+        "stream_type": "live",
+        "stream_id": 265062,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 81,
+        "name": "LAT - TNT",
+        "stream_type": "live",
+        "stream_id": 265081,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.tnt.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 82,
+        "name": "LAT - TNT UHD",
+        "stream_type": "live",
+        "stream_id": 265082,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/tnthd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 83,
+        "name": "LAT - TNT SERIES",
+        "stream_type": "live",
+        "stream_id": 265083,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.TNT_Serie.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 84,
+        "name": "LAT - TNT SERIES UHD",
+        "stream_type": "live",
+        "stream_id": 265084,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.tntseriehd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 85,
+        "name": "LAT - TNT SPORTS UHD",
+        "stream_type": "live",
+        "stream_id": 265085,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.TNT_Sports.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 86,
+        "name": "LAT - TOONCAST",
+        "stream_type": "live",
+        "stream_id": 265086,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TOONCAST-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 87,
+        "name": "LAT - TRU TV HD",
+        "stream_type": "live",
+        "stream_id": 646004,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.trutv.png",
+        "epg_channel_id": "la.truTV HD",
+        "added": "1640690945",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 88,
+        "name": "LAT - TYC SPORTS UHD",
+        "stream_type": "live",
+        "stream_id": 265093,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.tyc-sports.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 89,
+        "name": "LAT - UNIVERSAL CHANNEL",
+        "stream_type": "live",
+        "stream_id": 265100,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/universalchannel.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 90,
+        "name": "LAT - VH1 UHD",
+        "stream_type": "live",
+        "stream_id": 265120,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.VH1_HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 91,
+        "name": "LAT - WARNER",
+        "stream_type": "live",
+        "stream_id": 265125,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/warnertv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 92,
+        "name": "LAT - WARNER UHD",
+        "stream_type": "live",
+        "stream_id": 265126,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.Warnerhd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 93,
+        "name": "LAT - AMERICA TV",
+        "stream_type": "live",
+        "stream_id": 265146,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.americatv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 94,
+        "name": "##### ARGENTINA #####",
+        "stream_type": "live",
+        "stream_id": 265145,
+        "stream_icon": "",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 95,
+        "name": "LAT - ARGENTINA MAGAZINE",
+        "stream_type": "live",
+        "stream_id": 265147,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ARGENTINA-MAGAZINE.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 96,
+        "name": "LAT - ARGENTINA PAKAPAKA",
+        "stream_type": "live",
+        "stream_id": 265148,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ARGENTINA-PAKAPAKA.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 97,
+        "name": "LAT - C5N",
+        "stream_type": "live",
+        "stream_id": 265149,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/C5N-.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 98,
+        "name": "LAT - CANAL 13",
+        "stream_type": "live",
+        "stream_id": 265151,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANAL-13.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 99,
+        "name": "LAT - CANAL 26 UHD",
+        "stream_type": "live",
+        "stream_id": 265152,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANAL-26-HD.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 100,
+        "name": "LAT - CANAL 4",
+        "stream_type": "live",
+        "stream_id": 265153,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 101,
+        "name": "LAT - CANAL 4 (ARG)",
+        "stream_type": "live",
+        "stream_id": 265154,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 102,
+        "name": "LAT - CANAL 9",
+        "stream_type": "live",
+        "stream_id": 265155,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/canal9.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 103,
+        "name": "LAT - CANAL RURAL",
+        "stream_type": "live",
+        "stream_id": 265156,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANAL-RURAL.jpg",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 104,
+        "name": "LAT - CANALE 3",
+        "stream_type": "live",
+        "stream_id": 265157,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CANALE-3.jpeg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 105,
+        "name": "LAT - CANAL ORBE",
+        "stream_type": "live",
+        "stream_id": 673328,
+        "stream_icon": "http://logo.protv.cc/picons/logos/CANAL-ORBE.png",
+        "epg_channel_id": "",
+        "added": "1644771856",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 106,
+        "name": "LAT - CIUDAD MAGAZINE",
+        "stream_type": "live",
+        "stream_id": 265158,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/CIUDAD-MAGAZINE.jpeg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 107,
+        "name": "LAT - DEPORTV",
+        "stream_type": "live",
+        "stream_id": 265159,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/DEPORTV-.jpeg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 108,
+        "name": "LAT - DIRECT TV",
+        "stream_type": "live",
+        "stream_id": 265160,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/DIRECT-TV.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 109,
+        "name": "LAT - EL NUEVE",
+        "stream_type": "live",
+        "stream_id": 265161,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ELNUEVE.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 110,
+        "name": "LAT - EL NUEVE UHD",
+        "stream_type": "live",
+        "stream_id": 265162,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ELNUEVE.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 111,
+        "name": "LAT - EL TRECE",
+        "stream_type": "live",
+        "stream_id": 265163,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/EL-TRECE-HD.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 112,
+        "name": "LAT - EL TRECE UHD",
+        "stream_type": "live",
+        "stream_id": 265164,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/EL-TRECE-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 113,
+        "name": "LAT - ELNUEVE",
+        "stream_type": "live",
+        "stream_id": 265165,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ELNUEVE.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 114,
+        "name": "LAT - ENCUENTRO",
+        "stream_type": "live",
+        "stream_id": 265166,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/ENCUENTRO-.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 115,
+        "name": "LAT - EUROPA EUROPA",
+        "stream_type": "live",
+        "stream_id": 719130,
+        "stream_icon": "http://logo.protv.cc/picons/logos/EUROPA-EUROPA-HD.png",
+        "epg_channel_id": "",
+        "added": "1651579398",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 116,
+        "name": "LAT - ESPN PREMIUM",
+        "stream_type": "live",
+        "stream_id": 824571,
+        "stream_icon": "http://logo.protv.cc/picons/logos/ESPN-PREMIUM.png",
+        "epg_channel_id": "",
+        "added": "1671304452",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 117,
+        "name": "LAT - ESPN ARGENTINA",
+        "stream_type": "live",
+        "stream_id": 265167,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/espn.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 118,
+        "name": "LAT - EWTN",
+        "stream_type": "live",
+        "stream_id": 673329,
+        "stream_icon": "http://logo.protv.cc/picons/logos/ewtn.png",
+        "epg_channel_id": "",
+        "added": "1644772036",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 119,
+        "name": "LAT - FOOD NETWORK",
+        "stream_type": "live",
+        "stream_id": 742856,
+        "stream_icon": "http://logo.protv.cc/picons/logos/FOOD%20NETWORK.png",
+        "epg_channel_id": "",
+        "added": "1656328866",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 120,
+        "name": "LAT - FOX SPORTS 1 UHD",
+        "stream_type": "live",
+        "stream_id": 265168,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/foxsports1hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 121,
+        "name": "LAT - FOX SPORTS 2 UHD",
+        "stream_type": "live",
+        "stream_id": 265169,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/foxsports2hd.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 122,
+        "name": "LAT - FOX SPORTS 3 UHD",
+        "stream_type": "live",
+        "stream_id": 265170,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/foxsports3hd.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 123,
+        "name": "LAT - FOX SPORTS PREMIUM",
+        "stream_type": "live",
+        "stream_id": 265171,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PREMIUM.png",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 124,
+        "name": "LAT - GARAGE TV",
+        "stream_type": "live",
+        "stream_id": 265172,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/garagetv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 125,
+        "name": "LAT - GOL TV",
+        "stream_type": "live",
+        "stream_id": 265173,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/Gol_Tv.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 126,
+        "name": "LAT - MUSICTOP",
+        "stream_type": "live",
+        "stream_id": 265174,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/musictop.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 127,
+        "name": "LAT - TELEFE VIVO",
+        "stream_type": "live",
+        "stream_id": 851741,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TELEFE-HD.jpeg",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 128,
+        "name": "LAT - TELEFE UHD",
+        "stream_type": "live",
+        "stream_id": 265175,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TELEFE-HD.jpeg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 129,
+        "name": "LAT - TELEMAX",
+        "stream_type": "live",
+        "stream_id": 265176,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TELEMAX-.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 130,
+        "name": "LAT - TELPIN CANAL 2",
+        "stream_type": "live",
+        "stream_id": 265177,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TELPIN-CANAL-2-HD.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 131,
+        "name": "LAT - TN UHD",
+        "stream_type": "live",
+        "stream_id": 265179,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TN-.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 132,
+        "name": "LAT - TV PUBLICA",
+        "stream_type": "live",
+        "stream_id": 265180,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TV-PUBLICA.jpg",
+        "epg_channel_id": "",
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 133,
+        "name": "LAT - TV PUBLICA UHD",
+        "stream_type": "live",
+        "stream_id": 265181,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TV-PUBLICA.jpg",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 134,
+        "name": "LAT - TYC",
+        "stream_type": "live",
+        "stream_id": 265182,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/TYC.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 135,
+        "name": "LAT - TYC SPORTS",
+        "stream_type": "live",
+        "stream_id": 813041,
+        "stream_icon": "http://logo.protv.cc/picons/logos/LATINO/TyC_Sports.png",
+        "epg_channel_id": "",
+        "added": "1669045750",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    },
+    {
+        "num": 136,
+        "name": "LAT - TYC SPORTS UHD",
+        "stream_type": "live",
+        "stream_id": 265183,
+        "stream_icon": "http://logo.protv.cc/picons-dino/logos/laz.tyc-sports.png",
+        "epg_channel_id": null,
+        "added": "1596650204",
+        "is_adult": 0,
+        "category_id": "1315",
+        "category_ids": [
+            1315
+        ],
+        "custom_sid": null,
+        "tv_archive": 0,
+        "direct_source": "",
+        "tv_archive_duration": 0
+    }
+]
