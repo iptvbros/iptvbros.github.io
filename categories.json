@@ -2,6 +2,111 @@
   "categories": [
     {
       "parent_id": 0,
+      "category_id": "949",
+      "category_name": "|NA| USA GENERAL"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1032",
+      "category_name": "|NA| USA NEWS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "954",
+      "category_name": "|NA| USA KIDS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1046",
+      "category_name": "|NA| USA MOVIES"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "950",
+      "category_name": "|NA| USA SPORTS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1025",
+      "category_name": "|NA| USA ABC"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1027",
+      "category_name": "|NA| USA CBS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1028",
+      "category_name": "|NA| USA FOX"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1029",
+      "category_name": "|NA| USA NBC"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1044",
+      "category_name": "|NA| USA PBS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1045",
+      "category_name": "|NA| USA CW & MY"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1047",
+      "category_name": "|NA| USA NBA"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1048",
+      "category_name": "|NA| USA NFL"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1049",
+      "category_name": "|NA| USA NHL"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1054",
+      "category_name": "|NA| USA NBCS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1050",
+      "category_name": "|NA| USA MLB"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1291",
+      "category_name": "|NA| USA MILB"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1051",
+      "category_name": "|NA| USA NCAA"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1052",
+      "category_name": "|NA| USA ESPN+"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1369",
+      "category_name": "|NA| USA MLS"
+    },
+    {
+      "parent_id": 0,
+      "category_id": "1053",
+      "category_name": "|NA| USA FLO"
+    },
+    {
+      "parent_id": 0,
       "category_id": "1363",
       "category_name": "|EU| FRANCE HEVC"
     },
@@ -874,111 +979,6 @@
       "parent_id": 0,
       "category_id": "1078",
       "category_name": "|IE| IRELAND"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "949",
-      "category_name": "|NA| USA GENERAL"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1032",
-      "category_name": "|NA| USA NEWS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "954",
-      "category_name": "|NA| USA KIDS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1046",
-      "category_name": "|NA| USA MOVIES"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "950",
-      "category_name": "|NA| USA SPORTS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1025",
-      "category_name": "|NA| USA ABC"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1027",
-      "category_name": "|NA| USA CBS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1028",
-      "category_name": "|NA| USA FOX"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1029",
-      "category_name": "|NA| USA NBC"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1044",
-      "category_name": "|NA| USA PBS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1045",
-      "category_name": "|NA| USA CW & MY"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1047",
-      "category_name": "|NA| USA NBA"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1048",
-      "category_name": "|NA| USA NFL"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1049",
-      "category_name": "|NA| USA NHL"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1054",
-      "category_name": "|NA| USA NBCS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1050",
-      "category_name": "|NA| USA MLB"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1291",
-      "category_name": "|NA| USA MILB"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1051",
-      "category_name": "|NA| USA NCAA"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1052",
-      "category_name": "|NA| USA ESPN+"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1369",
-      "category_name": "|NA| USA MLS"
-    },
-    {
-      "parent_id": 0,
-      "category_id": "1053",
-      "category_name": "|NA| USA FLO"
     },
     {
       "parent_id": 0,
